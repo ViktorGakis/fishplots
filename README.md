@@ -1,2 +1,2 @@
 # fishplots
-fishy fish plots
+fishy fish plots with fish
